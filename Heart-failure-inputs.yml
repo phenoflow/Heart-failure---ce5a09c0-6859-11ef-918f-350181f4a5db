@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/rheumatic-heart-failure---icduncat.py
+inputModule3:
+  class: File
+  path: python/hypertensive-heart-failure---icduncat.py
+inputModule4:
+  class: File
+  path: python/heart-failure-unspecified---icduncat.py
+inputModule5:
+  class: File
+  path: python/heart-failure-kidney---icduncat.py
+inputModule6:
+  class: File
+  path: python/heart-failure---icduncat.py
+inputModule7:
+  class: File
+  path: python/acute-heart-failure---icduncat.py
+inputModule8:
+  class: File
+  path: python/systolic-heart-failure---icduncat.py
+inputModule9:
+  class: File
+  path: python/diastolic-heart-failure---icduncat.py
+inputModule10:
+  class: File
+  path: python/heart-failure-combined---icduncat.py
+inputModule11:
+  class: File
+  path: python/heart-failure-stage---icduncat.py
+inputModule12:
+  class: File
+  path: python/right-heart-failure---icduncat.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
